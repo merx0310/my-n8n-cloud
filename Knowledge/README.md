@@ -1,7 +1,21 @@
-# ShuYi AI Knowledge
+ShuYi-RAG V3.0
 
-數易文化 AI RAG Knowledge Base
+Knowledge
+│
+├──000_System
+├──100_Algorithm
+├──200_Number
+...
+├──900_MasterIntegration
 
-Version：1.0
+AI Engine
+│
+├──1000_AIEngine
 
-這個資料夾存放所有 AI 知識庫 Markdown。
+Deployment
+│
+├──1100_Deployment
+
+Operations
+│
+├──1200_Operations
